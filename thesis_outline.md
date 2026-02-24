@@ -1,35 +1,34 @@
 # Thesis Outline: Green Innovation
 
 ## 1. Introduction
-- Background and motivation
-- Research questions
-- Scope and structure of the thesis
 
-## 2. Literature Review
-- Definition and measurement of green innovation
-- Drivers and barriers of green innovation
-- Empirical evidence and research gaps
+## 2. Theoretical Framework
+- Regional Innovation Systems
+- Green Innovation
+- Determinantsaps
 
-## 3. Data and Methodology
-- Data sources and collection
-- Variable definitions
-- Analytical approach and models
+## 3. Data and Variable Construction
+- REGPAT
+- Eurostat
+- Operationalization
 
-## 4. Exploratory Data Analysis
-- Descriptive statistics
-- Visualisations and initial patterns
+## 4. Methodology
+- Panel Econometrics
+- Machine Learning Approach
+- Model Evaluation
+- Interpretability (SHAP)
 
 ## 5. Results
-- Model outputs and evaluation
-- Key findings
+- Econometric Results
+- ML Results
+- Comparison
 
 ## 6. Discussion
 - Interpretation of results
 - Policy implications
+- Strategic Implications
 - Limitations
 
 ## 7. Conclusion
 - Summary of contributions
 - Future research directions
-
-## References
